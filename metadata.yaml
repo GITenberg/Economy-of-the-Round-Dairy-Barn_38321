@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39394'
     url: http://www.gutenberg.org/2009/agents/39394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38321#Economy-of-the-Round-Dairy-Barn
 gutenberg_issued: '2011-12-16'
 gutenberg_type: Text
 identifiers:
